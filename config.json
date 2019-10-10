@@ -1,0 +1,4 @@
+{
+    "secret": "/*!d58@&*",
+    "database": "mysql://root:kilo1234@localhost:3306/blog"        
+}

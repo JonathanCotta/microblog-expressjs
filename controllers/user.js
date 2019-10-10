@@ -20,11 +20,15 @@ exports.updateForm = (req,res) => {
     
 };
 
-exports.updateForm = (req,res) => {
+exports.update = (req,res) => {
     
 };
 
 exports.delete = (req,res) => {
+    
+};
+
+exports.loginForm = (req,res) => {
     
 };
 
