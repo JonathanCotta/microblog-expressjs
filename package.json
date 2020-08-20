@@ -12,7 +12,7 @@
   "author": "jonathan cotta",
   "license": "GPL-3.0",
   "dependencies": {
-    "bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^5.2.2",
     "express": "^4.16.2",
     "express-session": "^1.15.6",
